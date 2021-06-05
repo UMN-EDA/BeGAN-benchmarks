@@ -15,13 +15,12 @@ This is a anonymous public repository which contains thousands of PDN benchmarks
  - SPICE netlist (.sp files)
  - current_maps.csv (matrix representation of the current values) 
  - voltage_maps_irregular.csv (matrix representation of the IR drop across the chip for irregular PDN)
- - volatge_map_regular.csv (matrix representation of the IR drop across the chip for regular PDN)
- - histogram representation of per-pdn node IR drop
+ - voltage_map_regular.csv (matrix representation of the IR drop across the chip for regular PDN)
  
  
  Each benchmark folder also contains image representation for the above data and histogram representation for the following:
- - voltage_map_hist (per-pdn node IR drop distributions)
- - voltage_map_cdf (per-pdn node cumulative IR drop distributions)
+ - voltage_map_hist (per-PDN node IR drop distributions)
+ - voltage_map_cdf (per-PDN node cumulative IR drop distributions)
 
 
 ## Gallery
