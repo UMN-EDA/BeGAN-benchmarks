@@ -17,6 +17,8 @@ This is a anonymous public repository which contains thousands of PDN benchmarks
  - voltage_maps_irregular.csv (matrix representation of the IR drop across the chip for irregular PDN)
  - volatge_map_regular.csv (matrix representation of the IR drop across the chip for regular PDN)
  - histogram representation of per-pdn node IR drop
+ 
+ 
  Each benchmark folder also contains image represntation for the above data and histogram representation
  - voltage_map_hist (per-pdn node IR drop distributions)
  - vlotage_map_cdf (per-pdn node cumulative IR drop distributions)
