@@ -3,7 +3,7 @@
 This is a anonymous public repository which contains thousands of PDN benchmarks in the form of SPICE circuit netlist files for three different technologies 
 
 - [SkyWater130 HD](https://github.com/google/skywater-pdk)
-- [FreePDK45 with Open Cell Library (nangate 45)](https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts/tree/master/flow/platforms/nangate45)
+- [FreePDK45 with Open Cell Library (NanGate 45nm)](https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts/tree/master/flow/platforms/nangate45)
 - [ASAP7](https://github.com/The-OpenROAD-Project/asap7)
 
 ## Contents
@@ -111,16 +111,14 @@ In the above example R645 is via since they share the same x and y coordinate bu
 ## Benchmark examples summary
 
 The table below summarizes the components for randomly sampled BeGAN benchmark
-for nangate45nm technology.
+for NanGate 45nm technology.
 
 | BeGAN id  | #nodes                        | #resistors | #voltage sources  | #current sources  |
 |-----------|-------------------------------|------------|-------------------|-------------------|
-| 1         | 9715                          | 10292      | 1                 | 8464              |
-| 2         | 18409                         | 19903      | 4                 | 15750             |
-| 3         | 50924                         | 55332      | 9                 | 43472             |
-| 4         | 9626                          | 10116      | 1                 | 8464              |
-| 5         | 455112                        | 493695     | 64                | 391220            |
-| 6         | 112546                        | 122641     | 12                | 95934             |
-| 7         | 178555                        | 193018     | 24                | 153738            |
-| 8         | 179730                        | 195360     | 24                | 153738            |
-| 9         | 82389                         | 89254      | 12                | 70738             |
+| 1         | 18409                         | 19903      | 4                 | 15750             |
+| 2         | 50924                         | 55332      | 9                 | 43472             |
+| 3         | 455112                        | 493695     | 64                | 391220            |
+| 4         | 112546                        | 122641     | 12                | 95934             |
+| 5         | 178555                        | 193018     | 24                | 153738            |
+| 6         | 179730                        | 195360     | 24                | 153738            |
+| 7         | 82389                         | 89254      | 12                | 70738             |
