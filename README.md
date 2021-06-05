@@ -19,7 +19,7 @@ This is a anonymous public repository which contains thousands of PDN benchmarks
  - histogram representation of per-pdn node IR drop
  
  
- Each benchmark folder also contains image represntation for the above data and histogram representation
+ Each benchmark folder also contains image represntation for the above data and histogram representation:
  - voltage_map_hist (per-pdn node IR drop distributions)
  - vlotage_map_cdf (per-pdn node cumulative IR drop distributions)
 
