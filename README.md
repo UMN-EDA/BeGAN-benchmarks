@@ -20,9 +20,10 @@ This is a anonymous public repository which contains thousands of PDN benchmarks
  
  
  Each benchmark folder also contains image representation for the above data and histogram representation for the following:
- - voltage_map_hist (per-PDN node IR drop distributions)
- - voltage_map_cdf (per-PDN node cumulative IR drop distributions)
-
+ - BeGAN_*_voltage_map_regular_hist.png (per-PDN node IR drop distributions for regular PDN)
+ - BeGAN_*_voltage_map_irregular_hist.png (per-PDN node IR drop distributions for irregular PDN)
+ - BeGAN_*_voltage_map_regular_cdf.png (per-PDN node cumulative IR drop distributions for regular PDN)
+ - BeGAN_*_voltage_map_irregular_cdf.png (per-PDN node cumulative IR drop distributions for irregular PDN)
 
 ## Gallery
 
