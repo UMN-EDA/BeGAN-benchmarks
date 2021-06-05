@@ -1,6 +1,6 @@
 # BeGAN-benchmarks
 
-This is a anonymous public repository which contains thousands of PDN benchmarks in the form of SPICE circuit netlist files for three different technologies 
+This is a anonymous public repository which contains thousands of PDN benchmarks in the form of SPICE circuit netlist files for three different technologies: 
 
 - [SkyWater130 HD](https://github.com/google/skywater-pdk)
 - [FreePDK45 with Open Cell Library (NanGate 45nm)](https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts/tree/master/flow/platforms/nangate45)
