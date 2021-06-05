@@ -14,7 +14,7 @@ This is a anonymous public repository which contains thousands of PDN benchmarks
  Each benchmark folder contains the following data:
  - BeGAN_*_reg_grid.sp.gz (SPICE netlist files for regular PDN)
  - BeGAN_*_irreg_grid.sp.gz (SPICE netlist files for irregular PDN)
- - BeGAN_*_current_map.csv (matrix representation of the current values) 
+ - BeGAN_*_current_map.csv.gz (matrix representation of the current values) 
  - BeGAN_*_voltage_map_regular.csv.gz (matrix representation of the IR drop across the chip for regular PDN)
  - BeGAN_*_voltage_map_irregular.csv.gz (matrix representation of the IR drop across the chip for irregular PDN)
  
