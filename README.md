@@ -42,21 +42,21 @@ src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/real-circuit-benc
 
 ### BeGAN benchmark current images
 <img
-src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/BeGAN-circuit-benchmarks/nangate45/images/BeGAN_001_current_map.png" width="18%"></img> 
+src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/BeGAN-circuit-benchmarks/nangate45/images/BeGAN_001_current_map.png" width="20%"></img> 
 <img
-src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/BeGAN-circuit-benchmarks/nangate45/images/BeGAN_002_current_map.png" width="18%"></img> 
+src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/BeGAN-circuit-benchmarks/nangate45/images/BeGAN_002_current_map.png" width="20%"></img> 
 <img
-src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/BeGAN-circuit-benchmarks/nangate45/images/BeGAN_004_current_map.png" width="18%"></img> 
+src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/BeGAN-circuit-benchmarks/nangate45/images/BeGAN_004_current_map.png" width="20%"></img> 
 <img
-src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/BeGAN-circuit-benchmarks/nangate45/images/BeGAN_005_current_map.png" width="18%"></img> 
+src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/BeGAN-circuit-benchmarks/nangate45/images/BeGAN_005_current_map.png" width="20%"></img> 
 <img
-src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/BeGAN-circuit-benchmarks/nangate45/images/BeGAN_008_current_map.png" width="18%"></img> 
+src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/BeGAN-circuit-benchmarks/nangate45/images/BeGAN_008_current_map.png" width="20%"></img> 
 <img
-src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/BeGAN-circuit-benchmarks/nangate45/images/BeGAN_994_current_map.png" width="18%"></img> 
+src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/BeGAN-circuit-benchmarks/nangate45/images/BeGAN_994_current_map.png" width="20%"></img> 
 <img
-src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/BeGAN-circuit-benchmarks/nangate45/images/BeGAN_010_current_map.png" width="18%"></img> 
+src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/BeGAN-circuit-benchmarks/nangate45/images/BeGAN_010_current_map.png" width="20%"></img> 
 <img
-src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/BeGAN-circuit-benchmarks/nangate45/images/BeGAN_024_current_map.png" width="18%"></img> 
+src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/BeGAN-circuit-benchmarks/nangate45/images/BeGAN_024_current_map.png" width="20%"></img> 
 
 
 ### Real circuit IR drop heatmaps
