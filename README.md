@@ -37,18 +37,18 @@ src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/real-circuit-benc
 src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/real-circuit-benchmarks/nangate45/images/ibex_current_map.png" width="22%"></img> 
 <img
 src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/real-circuit-benchmarks/nangate45/images/jpeg_current_map.png" width="22%"></img> 
-<img
-src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/real-circuit-benchmarks/nangate45/images/bp_current_map.png" width="22%"></img> 
-<img
-src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/real-circuit-benchmarks/nangate45/images/bp_fe_current_map.png" width="22%"></img> 
-<img
-src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/real-circuit-benchmarks/nangate45/images/bp_be_current_map.png" width="22%"></img> 
-<img
-src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/real-circuit-benchmarks/nangate45/images/bp_multi_current_map.png" width="22%"></img> 
+[//]: #<img
+[//]: #src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/real-circuit-benchmarks/nangate45/images/bp_current_map.png" width="22%"></img> 
+[//]: #<img
+[//]: #src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/real-circuit-benchmarks/nangate45/images/bp_fe_current_map.png" width="22%"></img> 
+[//]: #<img
+[//]: #src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/real-circuit-benchmarks/nangate45/images/bp_be_current_map.png" width="22%"></img> 
+[//]: #<img
+[//]: #src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/real-circuit-benchmarks/nangate45/images/bp_multi_current_map.png" width="22%"></img> 
 <img
 src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/real-circuit-benchmarks/nangate45/images/swerv_current_map.png" width="22%"></img> 
 
-### BeGAN benchmark current maps
+### BeGAN benchmark current images
 <img
 src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/BeGAN-circuit-benchmarks/nangate45/images/BeGAN_001_current_map.png" width="22%"></img> 
 <img
