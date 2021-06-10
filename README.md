@@ -25,6 +25,9 @@ This is a anonymous public repository which contains thousands of PDN benchmarks
  - BeGAN_*_voltage_map_regular_cdf.png (per-PDN node cumulative IR drop distributions for regular PDN)
  - BeGAN_*_voltage_map_irregular_cdf.png (per-PDN node cumulative IR drop distributions for irregular PDN)
 
+Note that for ASAP7 technology we do not generate the irregular PDNs due to the
+small die areas of the benchmark.
+
 ## Gallery
 
 Sample images from both real circuit and BeGAN benchmarks displayed below for
@@ -170,7 +173,7 @@ In the above example R645 is via since they share the same x and y coordinate bu
 
 ## Benchmark examples summary
 
-The table below summarizes the components for randomly sampled BeGAN benchmark
+The table below summarizes the components for randomly sampled BeGAN benchmarks
 for NanGate 45nm technology.
 
 | BeGAN id  | #nodes                        | #resistors | #voltage sources  | #current sources  |
