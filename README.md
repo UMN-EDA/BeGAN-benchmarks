@@ -30,7 +30,7 @@ This is a anonymous public repository which contains thousands of PDN benchmarks
 Sample images from both real circuit and BeGAN benchmarks displayed below for
 45nm technology as an example.
 
-### Real circuit current maps
+### Real benchmark current maps
 
 #### Set1
 <img
@@ -91,9 +91,10 @@ src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/BeGAN-circuit-ben
 <img
 src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/BeGAN-circuit-benchmarks/nangate45/set2/images/BeGAN_010_current_map.png" width="20%"></img> 
 <img
+src="https://github.com/PDN-BeGAN/BeGAN-benchmarks/blob/master/BeGAN-circuit-benchmarks/nangate45/set2/images/BeGAN_024_current_map.png" width="20%"></img> 
 
 
-### Real circuit IR drop heatmaps
+### Real benchmark IR drop heatmaps
 
 #### Set1
 <img
