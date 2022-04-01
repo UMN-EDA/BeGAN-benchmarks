@@ -185,3 +185,17 @@ for NanGate 45nm technology.
 | 5         | 178555                        | 193018     | 24                | 153738            |
 | 6         | 179730                        | 195360     | 24                | 153738            |
 | 7         | 82389                         | 89254      | 12                | 70738             |
+
+## Cite
+
+Please cite our paper if you use our benchmarks in your own work:
+
+```
+@inproceedings{BeGAN,
+  title={BeGAN: Power Grid Benchmark Generation Using a Process-portable GAN-based Methodology},
+  author={Chhabria, Vidya A. and Kunal, Kishor and Zabihi, Masoud and Sapatnekar, Sachin S.},
+  booktitle={2021 IEEE/ACM International Conference On Computer Aided Design (ICCAD)},
+  year={2021},
+  pages={1-8}
+}
+```
