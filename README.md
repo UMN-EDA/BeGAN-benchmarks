@@ -194,7 +194,7 @@ Please cite our paper if you use our benchmarks in your own work:
 @inproceedings{BeGAN,
   title={BeGAN: Power Grid Benchmark Generation Using a Process-portable GAN-based Methodology},
   author={Chhabria, Vidya A. and Kunal, Kishor and Zabihi, Masoud and Sapatnekar, Sachin S.},
-  booktitle={2021 IEEE/ACM International Conference On Computer Aided Design (ICCAD)},
+  booktitle={IEEE/ACM International Conference On Computer Aided Design (ICCAD)},
   year={2021},
   pages={1-8}
 }
