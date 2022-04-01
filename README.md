@@ -1,4 +1,4 @@
-# BeGAN-benchmarks
+# BeGAN Power Grid Benchmarks
 
 This is a anonymous public repository which contains thousands of PDN benchmarks in the form of SPICE circuit netlist files for three different technologies: 
 
