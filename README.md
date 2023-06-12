@@ -1,5 +1,5 @@
-**Disclaimer: ICCAD 2023 Contest participants please refer to only the benchmarks in the [contest website](http://iccad-contest.org/Problems.html) only!
-**
+**Disclaimer: ICCAD 2023 Contest participants please refer to only the benchmarks in the [contest website](http://iccad-contest.org/Problems.html) only!**
+
 # BeGAN Power Grid Benchmarks
 
 This is a anonymous public repository which contains thousands of PDN benchmarks in the form of SPICE circuit netlist files for three different technologies: 
