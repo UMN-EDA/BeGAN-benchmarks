@@ -1,4 +1,4 @@
-**Disclaimer: ICCAD 2023 Contest participants please refer to only the benchmarks in the [contest website](http://iccad-contest.org/Problems.html) only!**
+**Disclaimer: ICCAD 2023 contest participants please refer to the benchmarks in the [contest website](http://iccad-contest.org/Problems.html) only!**
 
 # BeGAN Power Grid Benchmarks
 
